@@ -1,6 +1,6 @@
-# It,s my map of knowledge and studied materials
+<h3> It,s my map of knowledge and studied materials</h3>
 <br>
-# SQL
+<h2> SQL </h2>
 <table>
 <thead>
 <tr>
