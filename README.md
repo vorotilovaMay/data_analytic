@@ -54,7 +54,7 @@
 <tbody>
 <tr>
 <td align="center"><a href="https://goo.su/4aLq" rel="nofollow">Texbook</a></td>
-<td>Econometric Basic</td>
+<td>Mathematical statistics Basic</td>
 <td align="center"><strong>Processing</strong></td>
 <td align="center"><strong>-</strong></td>
 </tr>
